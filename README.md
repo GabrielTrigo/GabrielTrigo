@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrigo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>  
-	<img align="center" alt="Trigo-Delphi" height="30" width="100" src="https://www.embarcadero.com/images/logos/logo-page/EMBT_Primary_Logo_Black.PNG">
+	<img align="center" alt="Trigo-Delphi" height="30" width="40" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png">
 	<img align="center" alt="Trigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img align="center" alt="Trigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 	<img align="center" alt="Trigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
