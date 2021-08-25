@@ -7,8 +7,10 @@
 </div>
 <div style="display: inline_block"><br>  
 	<img align="center" alt="Trigo-Delphi" height="40" width="40" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png">
-	<img align="center" alt="Trigo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	<img align="center" alt="Trigo-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 	<img align="center" alt="Trigo-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+	<img align="center" alt="Trigo-DotNet" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
+	<img align="center" alt="Trigo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	
 	<img align="center" alt="Trigo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Trigo-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
 </div>
