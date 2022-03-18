@@ -25,7 +25,7 @@
 	<img align="center" alt="Trigo-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">  
 	<img align="center" alt="Trigo-MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="Trigo-Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    <img align="center" alt="Trigo-RaspberryPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg"><img align="center" alt="Trigo-Redis" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+    <img align="center" alt="Trigo-RaspberryPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg"><img align="center" alt="Trigo-Redis" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"><img align="center" alt="Trigo-Subversion" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg">
 </div>
   
   ##
