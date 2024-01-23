@@ -16,7 +16,9 @@
 </p>
 
 
-Software Engineering student & passionate about technology. My father started programming in the 80s, at that time, he was programming for microcontrollers. I was lucky enough to stop playing with Lego and program my own little games and build what I called "Electronic Circuits" when I was still a kid. Since then, the passion has only increased.
+Software Engineering student & passionate about technology.
+
+For the past 9 years, I've been coding, with 5 of those years being in a professional capacity. Throughout my career, I've had the opportunity to contribute to impactful projects that directly influenced numerous programmers and Software Houses, including significant collaborations with giant companies. Among my notable achievements, I highlight the performance optimization of APIs handling millions of requests, resulting in substantial improvements. Additionally, I significantly reduced query times in databases, transforming operations that took minutes into tasks completed in just seconds. Proficient in DevOps practices and all stages of the software development lifecycle (SDLC).
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [gabrieltrigo123@hotmail.com](mailto:gabrieltrigo123@hotmail.com)
