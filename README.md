@@ -27,28 +27,29 @@ For the past 9 years, I've been coding, with 5 of those years being in a profess
 src="https://img.shields.io/github/followers/GabrielTrigo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## Languages I use:
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%20Sharp-000000?style=flat&logo=C%20Sharp&logoColor=239120)
-![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=0175C2)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
 ## Technologies I know:
-![Delphi](https://img.shields.io/badge/-Delphi-000000?style=flat&logo=Delphi&logoColor=EE1F35)
-![Lazarus](https://img.shields.io/badge/-Lazarus-000000?style=flat&logo=Lazarus)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel&logoColor=FF2D20)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=02569B)
-![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat&logo=Supabase&logoColor=3ECF8E)
-![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=Visual+Studio&logoColor=5C2D91)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![VueJs](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
+![Delphi RAD Studio](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![Lazarus](https://img.shields.io/badge/-Lazarus-000000?style=for-the-badge&logo=Lazarus)
+![VueJS](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=for-the-badge&logo=Supabase&logoColor=3ECF8E)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=JetBrains)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual+Studio&logoColor=5C2D91)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD)
 
 
 ### Socials
