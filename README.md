@@ -20,7 +20,7 @@ Software Engineering student & passionate about technology.
 
 For the past 9 years, I've been coding, with 5 of those years being in a professional capacity. Throughout my career, I've had the opportunity to contribute to impactful projects that directly influenced numerous programmers and Software Houses, including significant collaborations with giant companies. Among my notable achievements, I highlight the performance optimization of APIs handling millions of requests, resulting in substantial improvements. Additionally, I significantly reduced query times in databases, transforming operations that took minutes into tasks completed in just seconds. Proficient in DevOps practices and all stages of the software development lifecycle (SDLC).
 
-* 🌍  I'm based in Brazil
+* 🌍  I live in Brazil
 * ✉️  You can contact me at [gabrieltrigo123@hotmail.com](mailto:gabrieltrigo123@hotmail.com)
 
 <a href="https://www.github.com/GabrielTrigo" target="_blank" rel="noreferrer"><img
