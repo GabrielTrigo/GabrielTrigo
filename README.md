@@ -9,12 +9,6 @@
 	</a>
 </p>
 <br/>
-<p align="center">
-	<a href="https://github.com/GabrielTrigo">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+%26+Desktop+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
-
 
 *As a Software Developer at TecnoSpeed, I work with cutting-edge technologies and innovative solutions to create secure and scalable products for thousands of users. I have developed and deployed multiple features and modules using Delphi and JavaScript.*
 
