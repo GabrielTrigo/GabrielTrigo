@@ -15,10 +15,15 @@
 	</a>
 </p>
 
+As a Software Developer at TecnoSpeed, I work with cutting-edge technologies and innovative solutions to create secure and scalable products for thousands of users. I have developed and deployed multiple features and modules using Delphi and JavaScript.
 
-Software Engineering student & passionate about technology.
+Experienced Software Developer with over 7 years of total experience. Specializing in developing custom desktop applications (Windows) and web-based applications. I am also familiar with the following databases - MySQL, PostgreSQL, SQLite, and MongoDB. Additionally, I use the Laravel and ASP.NET Core frameworks. I have a strong interest in Data Science and DevOps engineering, and as a result, I am developing skills in these areas as well. Mastery of multiple programming languages, including Delphi/Pascal, JavaScript, PHP, C#, and Python;
 
-For the past 9 years, I've been coding, with 5 of those years being in a professional capacity. Throughout my career, I've had the opportunity to contribute to impactful projects that directly influenced numerous programmers and Software Houses, including significant collaborations with giant companies. Among my notable achievements, I highlight the performance optimization of APIs handling millions of requests, resulting in substantial improvements. Additionally, I significantly reduced query times in databases, transforming operations that took minutes into tasks completed in just seconds. Proficient in DevOps practices and all stages of the software development lifecycle (SDLC).
+🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges;
+
+I am pursuing a Bachelor's degree in Software Engineering at Cesumar University, where I have gained a solid foundation in software development, data structures, algorithms, and cloud computing. Currently, I am studying to obtain the "AWS Certified DevOps Engineer" certification.
+
+I am a tech enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills.
 
 * 🌍  I live in Brazil
 * ✉️  You can contact me at [gabrieltrigo123@hotmail.com](mailto:gabrieltrigo123@hotmail.com)
