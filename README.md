@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/GabrielTrigo?logo=github&style=for-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
-## Technologies I know:
+## Technologies I use:
 ![Delphi RAD Studio](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![Lazarus](https://img.shields.io/badge/-Lazarus-000000?style=for-the-badge&logo=Lazarus)
 ![VueJS](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
