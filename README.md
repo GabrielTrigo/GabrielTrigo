@@ -51,6 +51,7 @@ src="https://img.shields.io/github/followers/GabrielTrigo?logo=github&style=for-
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=JetBrains)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual+Studio&logoColor=5C2D91)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=for-the-badge&logo=Nginx)
 
 
 ### Socials
