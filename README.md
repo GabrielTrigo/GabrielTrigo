@@ -52,6 +52,8 @@ src="https://img.shields.io/github/followers/GabrielTrigo?logo=github&style=for-
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual+Studio&logoColor=5C2D91)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=for-the-badge&logo=Nginx)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker)
+![Shell Script](https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=gnu-bash)
 
 
 ### Socials
