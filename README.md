@@ -10,19 +10,16 @@
 </p>
 <br/>
 
-*As a Software Developer at Autoglass®, I work with cutting-edge technologies and innovative solutions to create secure and scalable products for thousands of users. I have developed and deployed multiple features and modules using Delphi and JavaScript.*
+*As a Software Developer at Autoglass®, I work with cutting-edge technologies and innovative solutions to create secure and scalable products for thousands of users. I have developed and deployed multiple features and modules using Delphi and ASP.NET Core.*
 
-*Experienced Software Developer with over 8 years of total experience. Specializing in developing custom desktop applications (Windows) and web-based applications. I am also familiar with the following databases - MySQL, PostgreSQL, SQLite, and MongoDB. Additionally, I use the Laravel and ASP.NET Core frameworks. I have a strong interest in Data Science and DevOps engineering, and as a result, I am developing skills in these areas as well. Mastery of multiple programming languages, including Delphi/Pascal, JavaScript, PHP, C#, and Python.* Proficient in DevOps practices and all stages of the software development lifecycle (SDLC).
+*Experienced Software Developer with over 8 years of total experience. Specialized in developing desktop applications with Delphi and web applications using ASP.NET Core and JavaScript. I have a strong interest in Machine Learning and DevOps engineering. Exepert in Delphi/Pascal and JavaScript, proficient in C#, PHP, and Python. Skilled in DevOps practices and all stages of the software development lifecycle (SDLC).*
 
-*I am pursuing a Bachelor's degree in Software Engineering at Cesumar University, where I have gained a solid foundation in software development, data structures, algorithms, and cloud computing. Currently, I am studying to obtain the "AWS Certified DevOps Engineer" certification.*
+*Graduated in Software Engineering from Cesumar University with the highest grade on the final project, titled: "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection.". I have gained a solid foundation in software development, data structures, algorithms, and cloud computing. Currently, I am studying to obtain the "AWS Certified DevOps Engineer" certification.*
 
-🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges;
-
-💡 *I am a tech enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills.*
-
-
-* 🌍  I live in Brazil
-* ✉️  You can contact me at [gabrieltrigo123@hotmail.com](mailto:gabrieltrigo123@hotmail.com)
+* 🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges;
+* 💡 I am a tech enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills.
+* 🌍 I live in Brazil
+* ✉️ You can contact me at [gabrieltrigo123@hotmail.com](mailto:gabrieltrigo123@hotmail.com)
 
 ## Languages I use:
 ![Delphi](https://img.shields.io/badge/Delphi-000000?style=for-the-badge&logo=delphi&logoColor=white)
