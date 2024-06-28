@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-*As a Software Developer at Autoglass®, I work with cutting-edge technologies and innovative solutions to create secure and scalable products for thousands of users. I have developed and deployed multiple features and modules using Delphi and ASP.NET Core.*
+*As a Software Developer at Autoglass®, I leverage cutting-edge technologies and innovative solutions to design and deliver secure, scalable products that serve thousands of users. I collaborate closely with cross-functional teams to ensure our software meets the highest standards of quality and performance, continuously optimizing and enhancing our applications to stay ahead in a rapidly evolving industry.*
 
 *Experienced Software Developer with over 8 years of total experience. Specialized in developing desktop applications with Delphi and web applications using ASP.NET Core and JavaScript. I have a strong interest in Machine Learning and DevOps engineering. Exepert in Delphi/Pascal and JavaScript, proficient in C#, PHP, and Python. Skilled in DevOps practices and all stages of the software development lifecycle (SDLC).*
 
