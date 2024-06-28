@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-*As a Software Developer at TecnoSpeed, I work with cutting-edge technologies and innovative solutions to create secure and scalable products for thousands of users. I have developed and deployed multiple features and modules using Delphi and JavaScript.*
+*As a Software Developer at Autoglass ®, I work with cutting-edge technologies and innovative solutions to create secure and scalable products for thousands of users. I have developed and deployed multiple features and modules using Delphi and JavaScript.*
 
 *Experienced Software Developer with over 8 years of total experience. Specializing in developing custom desktop applications (Windows) and web-based applications. I am also familiar with the following databases - MySQL, PostgreSQL, SQLite, and MongoDB. Additionally, I use the Laravel and ASP.NET Core frameworks. I have a strong interest in Data Science and DevOps engineering, and as a result, I am developing skills in these areas as well. Mastery of multiple programming languages, including Delphi/Pascal, JavaScript, PHP, C#, and Python.* Proficient in DevOps practices and all stages of the software development lifecycle (SDLC).
 
