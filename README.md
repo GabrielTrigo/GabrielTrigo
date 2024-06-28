@@ -24,9 +24,6 @@
 * 🌍  I live in Brazil
 * ✉️  You can contact me at [gabrieltrigo123@hotmail.com](mailto:gabrieltrigo123@hotmail.com)
 
-<a href="https://www.github.com/GabrielTrigo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/GabrielTrigo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ## Languages I use:
 ![Delphi](https://img.shields.io/badge/Delphi-000000?style=for-the-badge&logo=delphi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
