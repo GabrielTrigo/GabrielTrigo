@@ -18,7 +18,6 @@
 *I am a technology enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills. I practice good programming techniques, create custom tools, and enjoy low-level development. I am analytical, communicative, and detail-oriented. I embrace challenges, learn quickly, and adapt to any technology.*
 
 - 🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges;
-- 💡 I am a tech enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills.
 - 🌍 I live in Brazil
 - ✉️ You can contact me at [gabrieltrigo123@hotmail.com](mailto:gabrieltrigo123@hotmail.com)
 
