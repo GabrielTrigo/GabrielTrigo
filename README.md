@@ -9,11 +9,13 @@
 	</a>
 </p>
 
-*As a Software Developer at Autoglass®, I leverage cutting-edge technologies and innovative solutions to design and deliver secure, scalable products that serve thousands of users. I collaborate closely with cross-functional teams to ensure our software meets the highest standards of quality and performance, continuously optimizing and enhancing our applications to stay ahead in a rapidly evolving industry.*
+*As a Software Engineer at Autoglass®, I leverage cutting-edge technologies and innovative solutions to design and deliver secure, scalable products that serve thousands of users. I collaborate closely with cross-functional teams to ensure our software meets the highest standards of quality and performance, continuously optimizing and enhancing our applications to stay ahead in a rapidly evolving industry.*
 
-*Experienced Software Developer with over 8 years of total experience. Specialized in developing desktop applications with Delphi and web applications using ASP.NET Core and JavaScript. I have a strong interest in Machine Learning and DevOps engineering. Exepert in Delphi/Pascal and JavaScript, proficient in C#, PHP, and Python. Skilled in DevOps practices and all stages of the software development lifecycle (SDLC).*
+*Graduated in Software Engineering from Cesumar University with the highest grade on the final project titled "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection."*
 
-*Graduated in Software Engineering from Cesumar University with the highest grade on the final project, titled: "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection.". I have gained a solid foundation in software development, data structures, algorithms, and cloud computing. Currently, I am studying to obtain the "AWS Certified DevOps Engineer" certification.*
+*Specialized in developing desktop applications with Delphi and web applications with ASP.NET Core and JavaScript. I have a strong interest in Machine Learning and DevOps engineering, and I am proficient in various programming languages, including Delphi/Pascal and JavaScript, as well as being proficient in PHP, C#, and Python. I am skilled in DevOps practices and all stages of the software development lifecycle (SDLC).*
+
+*I am a technology enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills. I practice good programming techniques, create custom tools, and enjoy low-level development. I am analytical, communicative, and detail-oriented. I embrace challenges, learn quickly, and adapt to any technology.*
 
 * 🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges;
 * 💡 I am a tech enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills.
