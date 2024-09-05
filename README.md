@@ -13,7 +13,7 @@
 
 *Graduated in Software Engineering from Cesumar University with the highest grade on the final project titled "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection."*
 
-*Specialized in developing desktop applications with Delphi and web applications with ASP.NET Core and JavaScript. I have a strong interest in Machine Learning and DevOps engineering, and I am proficient in various programming languages, including Delphi/Pascal and JavaScript, as well as being proficient in PHP, C#, and Python. I am skilled in DevOps practices and all stages of the software development lifecycle (SDLC).*
+*Specialized for over 8 years in developing desktop applications with Delphi and web applications with ASP.NET Core and JavaScript. I have a strong interest in Machine Learning and DevOps engineering, and I am proficient in various programming languages, including Delphi/Pascal and JavaScript, as well as being proficient in PHP, C#, and Python. I am skilled in DevOps practices and all stages of the software development lifecycle (SDLC).*
 
 *I am a technology enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills. I practice good programming techniques, create custom tools, and enjoy low-level development. I am analytical, communicative, and detail-oriented. I embrace challenges, learn quickly, and adapt to any technology.*
 
