@@ -11,11 +11,15 @@
 
 *As a Software Engineer at Autoglass®, I leverage cutting-edge technologies and innovative solutions to design and deliver secure, scalable products that serve thousands of users. I collaborate closely with cross-functional teams to ensure our software meets the highest standards of quality and performance, continuously optimizing and enhancing our applications to stay ahead in a rapidly evolving industry.*
 
-*Graduated in Software Engineering from Cesumar University with the highest grade on the final project titled "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection."*
+*Software Engineer with 8+ years of experience specializing in desktop application development with Delphi and web solutions using ASP.NET Core and JavaScript.*
 
-*Specialized for over 8 years in developing desktop applications with Delphi and web applications with ASP.NET Core and JavaScript. I have a strong interest in Machine Learning and DevOps engineering, and I am proficient in various programming languages, including Delphi/Pascal and JavaScript, as well as being proficient in PHP, C#, and Python. I am skilled in DevOps practices and all stages of the software development lifecycle (SDLC).*
+*I have strong expertise in Delphi/Pascal and JavaScript, and I am also proficient in C#, PHP, and Python. My work covers all phases of the Software Development Life Cycle (SDLC) and DevOps practices, always aiming for efficiency and quality in projects.*
 
-*I am a technology enthusiast and a lifelong learner, always eager to explore new technologies and improve my skills. I practice good programming techniques, create custom tools, and enjoy low-level development. I am analytical, communicative, and detail-oriented. I embrace challenges, learn quickly, and adapt to any technology.*
+*A technology enthusiast with a mindset of continuous learning, I am constantly seeking new technologies and opportunities to enhance my skills. With an analytical approach, I am detail-oriented and communicative.*
+
+*Graduated in Software Engineering from Universidade Cesumar, I completed my final project with top marks, presenting the "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection" project.*
+
+*I am passionate about computing and driven by challenges, quickly learning and adapting to new technologies with ease.*
 
 - 🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges;
 - 🌍 I live in Brazil
