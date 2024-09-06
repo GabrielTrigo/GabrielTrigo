@@ -15,7 +15,7 @@
 
 *A technology enthusiast with a mindset of continuous learning, I am constantly seeking new technologies and opportunities to enhance my skills. With an analytical approach, I am detail-oriented and communicative.*
 
-*Graduated in Software Engineering from Universidade Cesumar, I completed my final project with top marks, presenting the "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection" project.*
+*Graduated in Software Engineering from Cesumar University, I completed my final project with top marks, presenting the "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection" project.*
 
 *I am passionate about computing and driven by challenges, quickly learning and adapting to new technologies with ease.*
 
