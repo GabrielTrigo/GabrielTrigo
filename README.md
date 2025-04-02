@@ -43,6 +43,7 @@
 ![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-000000.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-000000.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-000000.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
