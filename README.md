@@ -11,7 +11,7 @@
 
 *As a Software Engineer at Autoglass®, I leverage cutting-edge technologies and innovative solutions to design and deliver secure, scalable products that serve thousands of users. I collaborate closely with cross-functional teams to ensure our software meets the highest standards of quality and performance, continuously optimizing and enhancing our applications to stay ahead in a rapidly evolving industry.*
 
-*Software Engineer with 8+ years of experience specializing in desktop application development with Delphi and web solutions using ASP.NET Core and JavaScript. I have strong expertise in Delphi/Pascal and JavaScript, and I am also proficient in C#, PHP, and Python. My work covers all phases of the Software Development Life Cycle (SDLC) and DevOps practices, always aiming for efficiency and quality in projects.*
+*Software Engineer with 5+ years of experience specializing in desktop application development with Delphi and web solutions using ASP.NET Core and JavaScript. I have strong expertise in Delphi/Pascal and JavaScript, and I am also proficient in C#, PHP, and Python. My work covers all phases of the Software Development Life Cycle (SDLC) and DevOps practices, always aiming for efficiency and quality in projects.*
 
 *A technology enthusiast with a mindset of continuous learning, I am constantly seeking new technologies and opportunities to enhance my skills. With an analytical approach, I am detail-oriented and communicative.*
 
