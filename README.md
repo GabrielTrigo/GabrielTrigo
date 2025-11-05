@@ -9,15 +9,13 @@
 	</a>
 </p>
 
-*As a Software Engineer at Autoglass®, I leverage cutting-edge technologies and innovative solutions to design and deliver secure, scalable products that serve thousands of users. I collaborate closely with cross-functional teams to ensure our software meets the highest standards of quality and performance, continuously optimizing and enhancing our applications to stay ahead in a rapidly evolving industry.*
+I'm Gabriel Trigo, a Senior Software Engineer and Technical Reference (TR) with over 6 years of experience in fullstack development and microservices architecture. My expertise spans a robust technology ecosystem, including C#/.NET (ASP.NET), Node.js, Angular, and Delphi/Pascal. I focus on building distributed systems (ERP, SaaS, E-Commerce) and high-scale applications in cloud-native environments, capable of processing thousands of requests daily.
 
-*Software Engineer with 5+ years of experience specializing in desktop application development with Delphi and web solutions using ASP.NET Core and JavaScript. I have strong expertise in Delphi/Pascal and JavaScript, and I am also proficient in C#, PHP, and Python. My work covers all phases of the Software Development Life Cycle (SDLC) and DevOps practices, always aiming for efficiency and quality in projects.*
+Currently, I focus on designing and implementing distributed web systems for B2C/B2B marketplaces. I specialize in architecture based on microservices and micro frontends (Angular), utilizing REST APIs and messaging technologies like Kafka and AWS SQS to ensure high availability and scalability. I actively implement resilience patterns such as idempotence, retry, outbox, and webhooks.
 
-*A technology enthusiast with a mindset of continuous learning, I am constantly seeking new technologies and opportunities to enhance my skills. With an analytical approach, I am detail-oriented and communicative.*
+My responsibilities extend to ensuring quality with comprehensive testing (unit, load, integration, and E2E, using XUnit, Cypress, Playwright, and K6) , and observability by deploying monitoring features (Grafana, Kibana, OpenTelemetry). I also have experience in Infrastructure as Code (IaC), using Terraform and Ansible.
 
-*Graduated in Software Engineering from Cesumar University, I completed my final project with top marks, presenting the "Industrial Process Monitoring System Based on IoT and AI - Visual Defect Detection" project.*
-
-*I am passionate about computing and driven by challenges, quickly learning and adapting to new technologies with ease.*
+I am recognized for technical leadership, high performance, security, and availability. With a degree in Software Engineering (2024) and an award-winning final project in IoT and AI , I am passionate about technology, driven by challenges, and focused on problem-solving in an analytical, investigative, proactive, and collaborative manner.
 
 - 🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges;
 - 🌍 I live in Brazil
