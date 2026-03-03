@@ -9,7 +9,7 @@
 	</a>
 </p>
 
-I'm Gabriel Trigo, a Senior Software Engineer and Technical Reference (TR) with over 6 years of experience in fullstack development and microservices architecture. My expertise spans a robust technology ecosystem, including C#/.NET (ASP.NET), Node.js, Angular, and Delphi/Pascal. I focus on building distributed systems (ERP, SaaS, E-Commerce) and high-scale applications in cloud-native environments, capable of processing thousands of requests daily.
+I'm Gabriel Trigo, a Senior Software Engineer and Technical Reference (TR) with over 7 years of experience in fullstack development and microservices architecture. My expertise spans a robust technology ecosystem, including C#/.NET (ASP.NET), Node.js, Angular, and Delphi/Pascal. I focus on building distributed systems (ERP, SaaS, E-Commerce) and high-scale applications in cloud-native environments, capable of processing thousands of requests daily.
 
 Currently, I focus on designing and implementing distributed web systems for B2C/B2B marketplaces. I specialize in architecture based on microservices and micro frontends (Angular), utilizing REST APIs and messaging technologies like Kafka and AWS SQS to ensure high availability and scalability. I actively implement resilience patterns such as idempotence, retry, outbox, and webhooks.
 
