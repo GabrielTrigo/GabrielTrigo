@@ -9,15 +9,15 @@
 	</a>
 </p>
 
-I'm Gabriel Trigo, a Software Engineer & AI with 6+ years of experience in fullstack development with C#/.NET (ASP.NET Core), Angular, Node.js and Delphi/Pascal, building distributed systems (ERP, SaaS, E-Commerce) and high-scale applications. I build autonomous agents and LLM-powered applications with spec-driven development: OpenSpec, Claude Code, MCPs, RAG and prompt engineering.
+I'm Gabriel Trigo, a software engineer with 6+ years of experience, mostly in fullstack development with C#/.NET (ASP.NET Core), Angular, Node.js and Delphi/Pascal. I've built distributed systems and APIs for ERP, SaaS and e-commerce products. Lately I've been working on autonomous agents and LLM-powered applications using spec-driven development: OpenSpec, Claude Code, MCPs, RAG and prompt engineering.
 
-Currently at CI&T, allocated to a Brazilian vehicle tracking and protection company with a 24/7 operation, where I created the CI/CD flow with GitHub Actions, enabling several deploys a day across multiple environments, while working fullstack with Angular, .NET and SQL Server.
+Currently at CI&T, working fullstack with Java and Vue on an auto insurance claims flow. Previously at CI&T I was allocated to a Brazilian vehicle tracking and protection company (24/7 operation), where I built agents, RAG pipelines and the CI/CD flow with GitHub Actions (several deploys a day across multiple environments).
 
 Before that, I worked at Autoglass designing distributed systems with Kafka and RabbitMQ, and at TecnoSpeed leading REST APIs that processed millions of requests (Node.js, Express, Prisma).
 
 Across these roles and side projects I've also worked with microservices and micro frontends (Angular), resilience patterns (idempotence, retry, outbox, webhooks), testing (unit, load, integration and E2E with XUnit, Cypress, Playwright and K6), observability (Grafana, Kibana, OpenTelemetry) and Infrastructure as Code (Terraform, Ansible).
 
-- 🚀 As a toolsmith, I am skilled at quickly building tools to solve technical problems and improvising solutions to technical challenges
+- 🚀 I enjoy building small tools to solve day-to-day technical problems
 - 🌐 Portfolio: [gabrieltrigo.dev](https://gabrieltrigo.dev/)
 - 🎓 Bachelor's degree in Software Engineering (Unicesumar, 2024), with an award-winning final project in IoT and AI
 - 🌍 I live in Brazil
